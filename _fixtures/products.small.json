@@ -1,0 +1,73 @@
+[
+  {
+    "id": 2,
+    "name": "Blue shirt",
+    "quantity": 0,
+    "tags": [
+      "blue",
+      "shirt",
+      "summer",
+      "women",
+      "men"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Short sleeve shirt",
+    "quantity": 99,
+    "tags": [
+      "shirt",
+      "summer",
+      "short-sleeve"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mom jeans",
+    "quantity": 0,
+    "tags": [
+      "jeans",
+      "winter",
+      "women",
+      "pants"
+    ]
+  },
+  {
+    "id": 5,
+    "quantity": 50,
+    "name": "Leather Boots",
+    "tags": [
+      "leather",
+      "boots",
+      "footwear",
+      "men",
+      "spring"
+    ]
+  },
+  {
+    "id": 6,
+    "quantity": 13,
+    "name": "Checked Shirt",
+    "tags": [
+      "checked",
+      "shirt",
+      "casual",
+      "men",
+      "spring"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Red t-shirt",
+    "quantity": 10,
+    "tags": [
+      "summer",
+      "red",
+      "t-shirt",
+      "spring",
+      "men",
+      "casual",
+      "autumn"
+    ]
+  }
+]

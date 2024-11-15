@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1,
+    "quantity": 100,
+    "name": "Striped Polo Shirt",
+    "tags": ["casual", "striped", "polo", "men"]
+  },
+  {
+    "id": 2,
+    "quantity": 50,
+    "name": "Denim Jacket",
+    "tags": ["denim", "jacket", "outerwear", "men"]
+  },
+  {
+    "id": 3,
+    "quantity": 75,
+    "name": "Floral Sundress",
+    "tags": ["floral", "sundress", "summer", "women"]
+  },
+  {
+    "id": 4,
+    "quantity": 200,
+    "name": "Athletic Shorts",
+    "tags": ["athletic", "shorts", "sportswear", "men", "women"]
+  },
+  {
+    "id": 5,
+    "quantity": 50,
+    "name": "Leather Boots",
+    "tags": ["leather", "boots", "footwear", "men"]
+  },
+  {
+    "id": 6,
+    "quantity": 120,
+    "name": "Checked Shirt",
+    "tags": ["checked", "shirt", "casual", "men"]
+  },
+  {
+    "id": 7,
+    "quantity": 80,
+    "name": "Maxi Dress",
+    "tags": ["maxi", "dress", "formal", "women"]
+  },
+  {
+    "id": 8,
+    "quantity": 90,
+    "name": "Sweatpants",
+    "tags": ["sweatpants", "casual", "men", "women"]
+  },
+  {
+    "id": 9,
+    "quantity": 0,
+    "name": "Raincoat",
+    "tags": ["raincoat", "outerwear", "waterproof", "men", "women"]
+  },
+  {
+    "id": 10,
+    "quantity": 150,
+    "name": "V-Neck Sweater",
+    "tags": ["v-neck", "sweater", "knitwear", "men"]
+  },
+  {
+    "id": 11,
+    "quantity": 60,
+    "name": "Skater Skirt",
+    "tags": ["skater", "skirt", "casual", "women"]
+  },
+  {
+    "id": 12,
+    "quantity": 110,
+    "name": "Puffer Jacket",
+    "tags": ["puffer", "jacket", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 13,
+    "quantity": 0,
+    "name": "Cargo Pants",
+    "tags": ["cargo", "pants", "utility", "men"]
+  },
+  {
+    "id": 14,
+    "quantity": 85,
+    "name": "Wrap Blouse",
+    "tags": ["wrap", "blouse", "formal", "women"]
+  },
+  {
+    "id": 15,
+    "quantity": 70,
+    "name": "Cropped Hoodie",
+    "tags": ["cropped", "hoodie", "casual", "women"]
+  },
+  {
+    "id": 16,
+    "quantity": 100,
+    "name": "Chinos",
+    "tags": ["chinos", "pants", "casual", "men"]
+  },
+  {
+    "id": 17,
+    "quantity": 40,
+    "name": "Bomber Jacket",
+    "tags": ["bomber", "jacket", "outerwear", "men"]
+  },
+  {
+    "id": 18,
+    "quantity": 0,
+    "name": "Ski Pants",
+    "tags": ["ski", "pants", "winter", "men", "women"]
+  },
+  {
+    "id": 19,
+    "quantity": 65,
+    "name": "Pencil Skirt",
+    "tags": ["pencil", "skirt", "formal", "women"]
+  },
+  {
+    "id": 20,
+    "quantity": 55,
+    "name": "Cable Knit Sweater",
+    "tags": ["cable knit", "sweater", "winter", "men", "women"]
+  },
+  {
+    "id": 21,
+    "quantity": 120,
+    "name": "Graphic T-Shirt",
+    "tags": ["graphic", "t-shirt", "casual", "men", "women"]
+  },
+  {
+    "id": 22,
+    "quantity": 0,
+    "name": "Windbreaker Jacket",
+    "tags": ["windbreaker", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 23,
+    "quantity": 80,
+    "name": "Midi Skirt",
+    "tags": ["midi", "skirt", "formal", "women"]
+  },
+  {
+    "id": 24,
+    "quantity": 100,
+    "name": "Hooded Sweatshirt",
+    "tags": ["hooded", "sweatshirt", "casual", "men", "women"]
+  },
+  {
+    "id": 25,
+    "quantity": 60,
+    "name": "Trench Coat",
+    "tags": ["trench", "coat", "outerwear", "men", "women"]
+  },
+  {
+    "id": 26,
+    "quantity": 90,
+    "name": "Plaid Shirt",
+    "tags": ["plaid", "shirt", "casual", "men"]
+  },
+  {
+    "id": 27,
+    "quantity": 110,
+    "name": "Wrap Dress",
+    "tags": ["wrap", "dress", "formal", "women"]
+  },
+  {
+    "id": 28,
+    "quantity": 0,
+    "name": "Parka",
+    "tags": ["parka", "jacket", "winter", "men", "women"]
+  },
+  {
+    "id": 29,
+    "quantity": 70,
+    "name": "Denim Shorts",
+    "tags": ["denim", "shorts", "casual", "women"]
+  },
+  {
+    "id": 30,
+    "quantity": 45,
+    "name": "Cropped Jeans",
+    "tags": ["cropped", "jeans", "casual", "women"]
+  },
+  {
+    "id": 31,
+    "quantity": 130,
+    "name": "Cardigan",
+    "tags": ["cardigan", "knitwear", "casual", "men", "women"]
+  },
+  {
+    "id": 32,
+    "quantity": 0,
+    "name": "Turtleneck Sweater",
+    "tags": ["turtleneck", "sweater", "winter", "men", "women"]
+  },
+  {
+    "id": 33,
+    "quantity": 85,
+    "name": "Blazer",
+    "tags": ["blazer", "formal", "men", "women"]
+  },
+  {
+    "id": 34,
+    "quantity": 75,
+    "name": "Cargo Shorts",
+    "tags": ["cargo", "shorts", "casual", "men"]
+  },
+  {
+    "id": 35,
+    "quantity": 0,
+    "name": "Fleece Jacket",
+    "tags": ["fleece", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 36,
+    "quantity": 55,
+    "name": "Printed Blouse",
+    "tags": ["printed", "blouse", "casual", "women"]
+  },
+  {
+    "id": 37,
+    "quantity": 95,
+    "name": "Chino Shorts",
+    "tags": ["chino", "shorts", "casual", "men", "women"]
+  },
+  {
+    "id": 38,
+    "quantity": 105,
+    "name": "Sweater Dress",
+    "tags": ["sweater", "dress", "casual", "women"]
+  },
+  {
+    "id": 39,
+    "quantity": 0,
+    "name": "Rain Boots",
+    "tags": ["rain", "boots", "footwear", "men", "women"]
+  },
+  {
+    "id": 40,
+    "quantity": 40,
+    "name": "Quilted Vest",
+    "tags": ["quilted", "vest", "outerwear", "men", "women"]
+  },
+  {
+    "id": 41,
+    "quantity": 85,
+    "name": "Printed T-Shirt",
+    "tags": ["printed", "t-shirt", "casual", "men", "women"]
+  },
+  {
+    "id": 42,
+    "quantity": 0,
+    "name": "Biker Jacket",
+    "tags": ["biker", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 43,
+    "quantity": 95,
+    "name": "Pleated Skirt",
+    "tags": ["pleated", "skirt", "formal", "women"]
+  },
+  {
+    "id": 44,
+    "quantity": 110,
+    "name": "Zip-Up Hoodie",
+    "tags": ["zip-up", "hoodie", "casual", "men", "women"]
+  },
+  {
+    "id": 45,
+    "quantity": 70,
+    "name": "Poncho",
+    "tags": ["poncho", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 46,
+    "quantity": 80,
+    "name": "Flannel Shirt",
+    "tags": ["flannel", "shirt", "casual", "men"]
+  },
+  {
+    "id": 47,
+    "quantity": 90,
+    "name": "Shift Dress",
+    "tags": ["shift", "dress", "formal", "women"]
+  },
+  {
+    "id": 48,
+    "quantity": 0,
+    "name": "Down Jacket",
+    "tags": ["down", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 49,
+    "quantity": 100,
+    "name": "Cropped Top",
+    "tags": ["cropped", "top", "casual", "women"]
+  },
+  {
+    "id": 50,
+    "quantity": 50,
+    "name": "Jogger Pants",
+    "tags": ["jogger", "pants", "casual", "men", "women"]
+  },
+  {
+    "id": 51,
+    "quantity": 95,
+    "name": "Cowl Neck Sweater",
+    "tags": ["cowl neck", "sweater", "winter", "women"]
+  },
+  {
+    "id": 52,
+    "quantity": 0,
+    "name": "Puffer Vest",
+    "tags": ["puffer", "vest", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 53,
+    "quantity": 70,
+    "name": "Suit",
+    "tags": ["suit", "formal", "men"]
+  },
+  {
+    "id": 54,
+    "quantity": 120,
+    "name": "Cargo Jacket",
+    "tags": ["cargo", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 55,
+    "quantity": 0,
+    "name": "Anorak",
+    "tags": ["anorak", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 56,
+    "quantity": 80,
+    "name": "Tie-Dye T-Shirt",
+    "tags": ["tie-dye", "t-shirt", "casual", "men", "women"]
+  },
+  {
+    "id": 57,
+    "quantity": 105,
+    "name": "Jumpsuit",
+    "tags": ["jumpsuit", "casual", "women"]
+  },
+  {
+    "id": 58,
+    "quantity": 90,
+    "name": "Peacoat",
+    "tags": ["peacoat", "coat", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 59,
+    "quantity": 0,
+    "name": "Fur Coat",
+    "tags": ["fur", "coat", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 60,
+    "quantity": 65,
+    "name": "Denim Skirt",
+    "tags": ["denim", "skirt", "casual", "women"]
+  },
+  {
+    "id": 61,
+    "quantity": 95,
+    "name": "Hooded Cardigan",
+    "tags": ["hooded", "cardigan", "knitwear", "casual", "men", "women"]
+  },
+  {
+    "id": 62,
+    "quantity": 0,
+    "name": "Leather Pants",
+    "tags": ["leather", "pants", "casual", "men", "women"]
+  },
+  {
+    "id": 63,
+    "quantity": 70,
+    "name": "Floral Blouse",
+    "tags": ["floral", "blouse", "casual", "women"]
+  },
+  {
+    "id": 64,
+    "quantity": 100,
+    "name": "High-Waisted Jeans",
+    "tags": ["high-waisted", "jeans", "casual", "women"]
+  },
+  {
+    "id": 65,
+    "quantity": 0,
+    "name": "Ski Jacket",
+    "tags": ["ski", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 66,
+    "quantity": 85,
+    "name": "Sleeveless Blouse",
+    "tags": ["sleeveless", "blouse", "formal", "women"]
+  },
+  {
+    "id": 67,
+    "quantity": 80,
+    "name": "Polo Dress",
+    "tags": ["polo", "dress", "casual", "women"]
+  },
+  {
+    "id": 68,
+    "quantity": 0,
+    "name": "Down Vest",
+    "tags": ["down", "vest", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 69,
+    "quantity": 60,
+    "name": "Crewneck Sweater",
+    "tags": ["crewneck", "sweater", "casual", "men", "women"]
+  },
+  {
+    "id": 70,
+    "quantity": 110,
+    "name": "Denim Jacket",
+    "tags": ["denim", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 71,
+    "quantity": 0,
+    "name": "Quilted Jacket",
+    "tags": ["quilted", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 72,
+    "quantity": 75,
+    "name": "Faux Leather Skirt",
+    "tags": ["faux leather", "skirt", "casual", "women"]
+  },
+  {
+    "id": 73,
+    "quantity": 90,
+    "name": "Polo Shirt",
+    "tags": ["polo", "shirt", "casual", "men"]
+  },
+  {
+    "id": 74,
+    "quantity": 0,
+    "name": "Suede Jacket",
+    "tags": ["suede", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 75,
+    "quantity": 70,
+    "name": "Tie-Front Blouse",
+    "tags": ["tie-front", "blouse", "formal", "women"]
+  },
+  {
+    "id": 76,
+    "quantity": 80,
+    "name": "Pleated Pants",
+    "tags": ["pleated", "pants", "formal", "men", "women"]
+  },
+  {
+    "id": 77,
+    "quantity": 0,
+    "name": "Fur Vest",
+    "tags": ["fur", "vest", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 78,
+    "quantity": 100,
+    "name": "Trench Dress",
+    "tags": ["trench", "dress", "formal", "women"]
+  },
+  {
+    "id": 79,
+    "quantity": 65,
+    "name": "Cargo Skirt",
+    "tags": ["cargo", "skirt", "casual", "women"]
+  },
+  {
+    "id": 80,
+    "quantity": 0,
+    "name": "Fleece Pullover",
+    "tags": ["fleece", "pullover", "outerwear", "winter", "men", "women"]
+  },
+
+  {
+    "id": 81,
+    "quantity": 75,
+    "name": "Sweatshirt Dress",
+    "tags": ["sweatshirt", "dress", "casual", "women"]
+  },
+  {
+    "id": 82,
+    "quantity": 0,
+    "name": "Faux Fur Jacket",
+    "tags": ["faux fur", "jacket", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 83,
+    "quantity": 90,
+    "name": "Cargo Jacket",
+    "tags": ["cargo", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 84,
+    "quantity": 70,
+    "name": "Cami Top",
+    "tags": ["cami", "top", "casual", "women"]
+  },
+  {
+    "id": 85,
+    "quantity": 0,
+    "name": "Ski Pants",
+    "tags": ["ski", "pants", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 86,
+    "quantity": 80,
+    "name": "Hooded Bomber Jacket",
+    "tags": ["hooded", "bomber", "jacket", "outerwear", "men", "women"]
+  },
+  {
+    "id": 87,
+    "quantity": 110,
+    "name": "Striped Sweater",
+    "tags": ["striped", "sweater", "casual", "men", "women"]
+  },
+  {
+    "id": 88,
+    "quantity": 0,
+    "name": "Fur Trim Coat",
+    "tags": ["fur trim", "coat", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 89,
+    "quantity": 75,
+    "name": "Denim Jumpsuit",
+    "tags": ["denim", "jumpsuit", "casual", "women"]
+  },
+  {
+    "id": 90,
+    "quantity": 95,
+    "name": "Quilted Jacket",
+    "tags": ["quilted", "jacket", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 91,
+    "quantity": 0,
+    "name": "Shearling Coat",
+    "tags": ["shearling", "coat", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 92,
+    "quantity": 100,
+    "name": "Fleece Sweatpants",
+    "tags": ["fleece", "sweatpants", "casual", "men", "women"]
+  },
+  {
+    "id": 93,
+    "quantity": 65,
+    "name": "Wrap Skirt",
+    "tags": ["wrap", "skirt", "casual", "women"]
+  },
+  {
+    "id": 94,
+    "quantity": 0,
+    "name": "Down Coat",
+    "tags": ["down", "coat", "outerwear", "winter", "men", "women"]
+  },
+  {
+    "id": 95,
+    "quantity": 80,
+    "name": "Ribbed Turtleneck",
+    "tags": ["ribbed", "turtleneck", "winter", "men", "women"]
+  },
+  {
+    "id": 96,
+    "quantity": 110,
+    "name": "Ruffle Blouse",
+    "tags": ["ruffle", "blouse", "formal", "women"]
+  },
+  {
+    "id": 97,
+    "quantity": 0,
+    "name": "Fur Parka",
+    "tags": ["fur", "parka", "outerwear", "winter", "women"]
+  },
+  {
+    "id": 98,
+    "quantity": 70,
+    "name": "Mock Neck Sweater",
+    "tags": ["mock neck", "sweater", "winter", "men", "women"]
+  },
+  {
+    "id": 99,
+    "quantity": 90,
+    "name": "Corduroy Pants",
+    "tags": ["corduroy", "pants", "casual", "men", "women"]
+  },
+  {
+    "id": 100,
+    "quantity": 0,
+    "name": "Faux Shearling Jacket",
+    "tags": ["faux shearling", "jacket", "outerwear", "winter", "women"]
+  }
+]
+
+
